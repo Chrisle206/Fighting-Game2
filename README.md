@@ -1,6 +1,5 @@
 # <fighting-game>
 
-  Link to play :  https://chrisle206.github.io/Fighting-Game2/
   
 ## Description
 
